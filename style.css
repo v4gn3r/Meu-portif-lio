@@ -1,0 +1,43 @@
+.fotos img {
+    width: 200px;
+    height: auto;
+}
+
+body {
+    font-family: sans-serif;
+    color: gray;
+}
+
+header {
+    text-align: center;
+}
+
+span {
+    background-color: rgb(255, 166, 0);
+    color: white;
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    /* margin: 10px 0px 5px 15px */
+}
+
+span:hover {
+    background-color: #0056b3; 
+    transform: scale(1.1);
+}
+
+li{
+    background-color: rgb(255, 166, 0);
+    color: white;
+    padding: 3px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
